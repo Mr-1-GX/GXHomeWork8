@@ -51,13 +51,13 @@
 }
 
 @font-face {
-    font-family: 'Montserrat-Bold';
-    src: url('../fonts/Montserrat/Montserrat-Bold.eot');
-    src: url('../fonts/Montserrat/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Montserrat/Montserrat-Bold.woff2') format('woff2'),
-        url('../fonts/Montserrat/Montserrat-Bold.woff') format('woff'),
-        url('../fonts/Montserrat/Montserrat-Bold.ttf') format('truetype'),
-        url('../fonts/Montserrat/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+    font-family: 'Montserrat';
+    src: url('Montserrat-Bold.eot');
+    src: url('Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Bold.woff2') format('woff2'),
+        url('Montserrat-Bold.woff') format('woff'),
+        url('Montserrat-Bold.ttf') format('truetype'),
+        url('Montserrat-Bold.svg#Montserrat-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -155,13 +155,13 @@
 }
 
 @font-face {
-    font-family: 'Montserrat-Light';
-    src: url('../fonts/Montserrat/Montserrat-Light.eot');
-    src: url('../fonts/Montserrat/Montserrat-Light.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Montserrat/Montserrat-Light.woff2') format('woff2'),
-        url('../fonts/Montserrat/Montserrat-Light.woff') format('woff'),
-        url('../fonts/Montserrat/Montserrat-Light.ttf') format('truetype'),
-        url('../fonts/Montserrat/Montserrat-Light.svg#Montserrat-Light') format('svg');
+    font-family: 'Montserrat';
+    src: url('Montserrat-Light.eot');
+    src: url('Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Light.woff2') format('woff2'),
+        url('Montserrat-Light.woff') format('woff'),
+        url('Montserrat-Light.ttf') format('truetype'),
+        url('Montserrat-Light.svg#Montserrat-Light') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -207,13 +207,13 @@
 }
 
 @font-face {
-    font-family: 'Montserrat-Regular';
-    src: url('../fonts/Montserrat/Montserrat-Regular.eot');
-    src: url('../fonts/Montserrat/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Montserrat/Montserrat-Regular.woff2') format('woff2'),
-        url('../fonts/Montserrat/Montserrat-Regular.woff') format('woff'),
-        url('../fonts/Montserrat/Montserrat-Regular.ttf') format('truetype'),
-        url('../fonts/Montserrat/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.eot');
+    src: url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff'),
+        url('Montserrat-Regular.ttf') format('truetype'),
+        url('Montserrat-Regular.svg#Montserrat-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -231,20 +231,4 @@
     font-style: italic;
     font-display: swap;
 }
-@font-face {
-    font-family: 'Avengeance Mightiest Avenger';
-    src: url('../fonts/avengeance/AvengeanceMightiestAvenger.eot');
-    src: url('../fonts/avengeance/AvengeanceMightiestAvenger.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/avengeance/AvengeanceMightiestAvenger.woff2') format('woff2'),
-        url('../fonts/avengeance/AvengeanceMightiestAvenger.woff') format('woff'),
-        url('../fonts/avengeance/AvengeanceMightiestAvenger.ttf') format('truetype'),
-        url('../fonts/avengeance/AvengeanceMightiestAvenger.svg#AvengeanceMightiestAvenger') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-
-
-
 
